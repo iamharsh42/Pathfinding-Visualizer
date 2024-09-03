@@ -10,4 +10,4 @@ export const usePathfinding = () => {
     }
 
     return context;
-};
+}; // custom hook to use PathfindingContext
